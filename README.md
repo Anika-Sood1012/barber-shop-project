@@ -3,7 +3,7 @@
 A responsive barber shop website built for a family-run salon in Alkapuri, Vadodara, Gujarat.
 
 ## 🔗 Live Demo
-**https://yourusername.github.io/patel-bros-barber**
+**https://anika-sood1012.github.io/barber-shop-project/**
 
 ---
 
@@ -55,8 +55,8 @@ index.html
 | Field | Details |
 |-------|---------|
 | Name | Anika Sood |
-| Roll No |  |
-| Course |  |
+| Roll No | 25120142 |
+| Course | BBA in digital business and entrepreneurship |
 | Date | April 11, 2026 |
 
 ---
